@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeItAnagram",
+            "request": "launch",
+            "mainClass": "MakeItAnagram",
+            "projectName": "Hackerrank-Submissions_38079722"
+        }
+    ]
+}
