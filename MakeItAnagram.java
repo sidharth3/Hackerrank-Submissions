@@ -1,5 +1,6 @@
 
-//Given two strings, write a one line code to calculate the minimum number of character deletions from each string
+//Given two strings, write a one line code to calculate the minimum number of character deletions from each string to make them
+//an anagram of each other.
 import java.io.*;
 import java.util.*;
 import java.text.*;
