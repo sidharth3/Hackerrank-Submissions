@@ -1,3 +1,5 @@
+
+//Given two strings, write a one line code to calculate the minimum number of character deletions from each string
 import java.io.*;
 import java.util.*;
 import java.text.*;
