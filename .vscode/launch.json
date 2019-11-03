@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestPiano",
+            "request": "launch",
+            "mainClass": "piano.TestPiano",
+            "projectName": "Hackerrank-Submissions_38079722"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MakeItAnagram",
             "request": "launch",
             "mainClass": "MakeItAnagram",
